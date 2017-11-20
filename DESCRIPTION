@@ -1,0 +1,15 @@
+Package: Pratice
+Type: Package
+Title: My first package (Title Case)
+Version: 0.1.0
+Author: Myung-Kwan Kim
+Maintainer: Myung-Kwan Kim <rudespin@naver.com>
+Description: It is my first package with github (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
